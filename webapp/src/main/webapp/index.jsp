@@ -1,7 +1,3 @@
-<h1> Hello, Welcome!!!   </h1>
-<h2> I am enjoying learning something new in this class. </h2>
-<h2> Challenging oneself is great. </h2>
-<h1> I look forward to mastering DevOps. </h1>
-<h1> So help me God. </h1>
-<h1> We are going from git to jenkins to kubernetes</h1>
-<h1> This is an addition to our code.</h1>
+<h1> Hello, Are you motivated yet? !!!   </h1>
+<h2> Well, I know I am!! Many thanks ALWAYS to our Instructor and super Coach, Prof Serge Kamgang.   </h2>
+<h2> This is a special call out to please GO VOTE ON TUESDAY, NOV 3 if you've not voted early. </h2> 
